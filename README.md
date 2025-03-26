@@ -33,7 +33,7 @@ MathLab GUI is a multi-functional graphical user interface (GUI) application bui
 
 3. Run the application:
    ```sh
-   python MathLab\ GUI.py
+   python MathLab GUI.py
    ```
 
 ## Dependencies
